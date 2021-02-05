@@ -8,6 +8,12 @@ body {
     background-color: #d9dcd6;
 }
 
+.tabs{
+    display:inline;
+    padding-top: 20px;
+    padding-right: 40px;
+    float: right;
+}
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,6 +40,7 @@ body {
 
 .header div ul {
     list-style-type: none;
+    
 }
 
 .header div ul li {
